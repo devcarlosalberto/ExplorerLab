@@ -11,14 +11,10 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
   <a href="#memo-licença">Licença</a>
 </p>
 
-<p align="center">
-  <img alt="rocketpay" src="project.png" width="100%">
-</p>
-
 <br>
 
 <p align="center">
-  <img alt="rocketpay" src=".github/project.png" width="100%">
+  <img alt="rocketpay" src="project.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
